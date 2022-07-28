@@ -1,5 +1,5 @@
 # BIKESTORES-ACCEPTANCE-TEST
-Boilerplate Microservice with automation testing of bikestores with Java 8 and Spring Boot useful to test the REST request of a microservice, in this case bikestores.
+Boilerplate Microservice with automation testing of bikestores with Java 8 and Spring Boot useful to test the REST requests of a microservice, in this case bikestores.
 
 Please note that this is only a boilerplate microservice, there is not a defined business, many configurations and developments are forced to show all the different features of Spring Boot.
 
