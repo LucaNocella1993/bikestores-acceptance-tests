@@ -90,5 +90,4 @@ class BikestoresRestRequestsTests {
 				BASEPATH + "customer/" + id, String.class);
 		assertEquals(HttpStatus.OK, responseDelete.getStatusCode());
 	}
-
 }
