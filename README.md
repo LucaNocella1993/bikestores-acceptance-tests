@@ -22,5 +22,5 @@ Luca Nocella
 Java Developer – Naples – Italy
 
 e-mail: [luca.nocella@hotmail.com](luca.nocella@hotmail.com)
-
+ 
 linkedin: [https://www.linkedin.com/in/luca-nocella-6488aa153/](https://www.linkedin.com/in/luca-nocella-6488aa153/)
