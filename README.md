@@ -5,11 +5,11 @@ Please note that this is only a boilerplate microservice, there is not a defined
 
 ## Documentation
 To launch the tests, you have only to deploy the bikestores microservice(follow the guide in the own repository) and run the test class BikestoresRestRequestsTests.
-
+ 
 
 ### Where can I get the latest release?
 You can download source and binaries from [Github page](https://github.com/LucaNocella1993/bikestores-acceptance-tests.git).
-
+ 
 
 ### Release Note
 + 1.0.0
